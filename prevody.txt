@@ -1,0 +1,11 @@
+3      0 km  467 m     0 min  19 s      88.48 km/h
+5     13 km  503 m     5 min  56 s     136.55 km/h
+6     29 km  335 m    28 min  13 s      62.38 km/h
+7     19 km  116 m     4 min   7 s     278.61 km/h
+9     22 km  816 m    23 min  39 s      57.88 km/h
+10    19 km   47 m    17 min  35 s      64.99 km/h
+12    16 km  131 m    22 min  38 s      42.76 km/h
+13    26 km  615 m    10 min  12 s     156.56 km/h
+14    12 km  644 m     2 min  38 s     288.09 km/h
+
+Do souboru prevody.txt bylo zapsano 9 dvojic cisel.
